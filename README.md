@@ -1,26 +1,32 @@
 # Iris-Classification
 
 ## Problem Statement
-- Provide a brief background or context for your analysis. Explain why the data is relevant or interesting.
+- This is a dataset that contains 150 rows of data about different species of Iris flowers. There is an equal number of rows for each species. 
 
-- Clearly state the purpose of your analysis. What are you aiming to achieve or communicate through this analysis? Who would this benefit?
+- The purpose of this analysis is to create a model to accurately predict the species based on the petals and sepals. 
 
 ## Data Dictionary
-Include a data dictionary to explain the meaning of each variable or field in the dataset. You can also link to an external data dictionary.
 
 | Column Name | Description |
 |-------------|-------------|
-| Column1     | Description1 |
-| Column2     | Description2 |
-| ...         | ...         |
+| **sepal_length** | Length of the sepal of the flower (cm).                          |
+| **sepal_width**  | Width of the sepal of the flower (cm).                           |
+| **petal_length** | Length of the petal of the flower (cm).                          |
+| **petal_width**  | Width of the petal of the flower (cm).                           |
+| **species**      | Species of the iris flower (setosa, versicolor, virginica). |
 
 ## Executive Summary
 
 ### Data Cleaning Steps
-Outline the steps taken to clean and preprocess the data before analysis.
+No data cleaning had to be performed on this dataset. 
 
 ### Key Visualizations
 Include key visualizations that highlight important aspects of the data. Use graphs, charts, or any other visual representation to make your points.
+
+#### Visualization 1: [Pairplot of the Columns]
+This shows all the scatterplots of the different features for the petals and sepals. It also shows histograms of each feature. 
+
+![pairplot](./images/pairplot.png)
 
 #### Visualization 1: [Title]
 [Description and interpretation of the first visualization.]
