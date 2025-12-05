@@ -28,15 +28,25 @@ This shows all the scatterplots of the different features for the petals and sep
 
 ![pairplot](./images/pairplot.png)
 
-#### Visualization 1: [Title]
+#### Visualization 2: [Petal Width]
 [Description and interpretation of the first visualization.]
 
-![Visualization 1](path/to/image1.png)
+![petal width](./images/petal_width_hist.png)
 
-#### Visualization 2: [Title]
+#### Visualization 3: [Petal Length]
 [Description and interpretation of the second visualization.]
 
-![Visualization 2](path/to/image2.png)
+![petal length](./images/petal_length_hist.png)
+
+#### Visualization 2: [Sepal Width]
+[Description and interpretation of the first visualization.]
+
+![sepal width](./images/sepal_width_hist.png)
+
+#### Visualization 3: [Sepal Length]
+[Description and interpretation of the second visualization.]
+
+![sepal length](./images/sepal_length_hist.png)
 
 ## Conclusions/Recommendations
 Summarize the main findings from your analysis. If applicable, provide recommendations based on the insights gained from the data.
